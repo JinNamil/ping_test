@@ -1,0 +1,13 @@
+.\objects\ewbm_isr.o: cpu\src\ewbm_isr.c
+.\objects\ewbm_isr.o: .\cpu\inc\ewbm_isr.h
+.\objects\ewbm_isr.o: .\cpu\inc\ewbm_device.h
+.\objects\ewbm_isr.o: .\cpu\inc\core_cm0.h
+.\objects\ewbm_isr.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ewbm_isr.o: .\cpu\inc\core_cmInstr.h
+.\objects\ewbm_isr.o: .\cpu\inc\cmsis_armcc.h
+.\objects\ewbm_isr.o: .\cpu\inc\core_cmFunc.h
+.\objects\ewbm_isr.o: .\cpu\inc\system_ewbm.h
+.\objects\ewbm_isr.o: .\cpu\inc\ewbm_conf.h
+.\objects\ewbm_isr.o: .\cpu\inc\ewbm_reg.h
+.\objects\ewbm_isr.o: .\component\drivers\ip\inc\ewbm_uart.h
+.\objects\ewbm_isr.o: .\component\drivers\ip\inc\ewbm_dma.h

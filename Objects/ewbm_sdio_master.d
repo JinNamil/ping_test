@@ -1,0 +1,15 @@
+.\objects\ewbm_sdio_master.o: component\drivers\ip\src\ewbm_sdio_master.c
+.\objects\ewbm_sdio_master.o: .\component\drivers\ip\inc\ewbm_sdio_master.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\ewbm_device.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\core_cm0.h
+.\objects\ewbm_sdio_master.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\core_cmInstr.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\cmsis_armcc.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\core_cmFunc.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\system_ewbm.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\ewbm_conf.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\ewbm_reg.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\ewbm_isr.h
+.\objects\ewbm_sdio_master.o: .\cpu\inc\ewbm_clock.h
+.\objects\ewbm_sdio_master.o: .\component\drivers\ip\inc\ewbm_delay.h
+.\objects\ewbm_sdio_master.o: .\component\drivers\ip\inc\ewbm_gpio.h

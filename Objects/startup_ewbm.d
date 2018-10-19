@@ -1,0 +1,12 @@
+.\objects\startup_ewbm.o: cpu\src\startup_ewbm.c
+.\objects\startup_ewbm.o: .\cpu\inc\ewbm_device.h
+.\objects\startup_ewbm.o: .\cpu\inc\core_cm0.h
+.\objects\startup_ewbm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\startup_ewbm.o: .\cpu\inc\core_cmInstr.h
+.\objects\startup_ewbm.o: .\cpu\inc\cmsis_armcc.h
+.\objects\startup_ewbm.o: .\cpu\inc\core_cmFunc.h
+.\objects\startup_ewbm.o: .\cpu\inc\system_ewbm.h
+.\objects\startup_ewbm.o: .\cpu\inc\ewbm_conf.h
+.\objects\startup_ewbm.o: .\cpu\inc\ewbm_reg.h
+.\objects\startup_ewbm.o: .\cpu\inc\ewbm_isr.h
+.\objects\startup_ewbm.o: .\component\config\inc\startup_config.h

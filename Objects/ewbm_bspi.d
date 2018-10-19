@@ -1,0 +1,15 @@
+.\objects\ewbm_bspi.o: component\drivers\ip\src\ewbm_bspi.c
+.\objects\ewbm_bspi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ewbm_bspi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ewbm_bspi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ewbm_bspi.o: .\component\drivers\ip\inc\ewbm_bspi.h
+.\objects\ewbm_bspi.o: .\cpu\inc\ewbm_device.h
+.\objects\ewbm_bspi.o: .\cpu\inc\core_cm0.h
+.\objects\ewbm_bspi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ewbm_bspi.o: .\cpu\inc\core_cmInstr.h
+.\objects\ewbm_bspi.o: .\cpu\inc\cmsis_armcc.h
+.\objects\ewbm_bspi.o: .\cpu\inc\core_cmFunc.h
+.\objects\ewbm_bspi.o: .\cpu\inc\system_ewbm.h
+.\objects\ewbm_bspi.o: .\cpu\inc\ewbm_conf.h
+.\objects\ewbm_bspi.o: .\cpu\inc\ewbm_reg.h
+.\objects\ewbm_bspi.o: .\component\drivers\ip\inc\ewbm_delay.h

@@ -1,0 +1,345 @@
+Dependencies for Project 'W5500', Target 'Flash_Target': (DO NOT MODIFY !)
+F (.\component\drivers\ip\src\ewbm_bspi.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_bspi.o --omf_browse .\objects\ewbm_bspi.crf --depend .\objects\ewbm_bspi.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB1D66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DB1D68)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB1D68)
+I (.\component\drivers\ip\inc\ewbm_bspi.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+F (.\component\drivers\ip\src\ewbm_delay.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_delay.o --omf_browse .\objects\ewbm_delay.crf --depend .\objects\ewbm_delay.d)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+F (.\component\drivers\ip\src\ewbm_dma.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_dma.o --omf_browse .\objects\ewbm_dma.crf --depend .\objects\ewbm_dma.d)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+F (.\component\drivers\ip\src\ewbm_gpio.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_gpio.o --omf_browse .\objects\ewbm_gpio.crf --depend .\objects\ewbm_gpio.d)
+I (.\component\drivers\ip\inc\ewbm_gpio.h)(0x5B42BB86)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+F (.\component\drivers\ip\src\ewbm_gpt.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_gpt.o --omf_browse .\objects\ewbm_gpt.crf --depend .\objects\ewbm_gpt.d)
+I (.\component\drivers\ip\inc\ewbm_gpt.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB1D68)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+F (.\component\drivers\ip\src\ewbm_i2c.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_i2c.o --omf_browse .\objects\ewbm_i2c.crf --depend .\objects\ewbm_i2c.d)
+I (.\component\drivers\ip\inc\ewbm_i2c.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+F (.\component\drivers\ip\src\ewbm_pmu.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_pmu.o --omf_browse .\objects\ewbm_pmu.crf --depend .\objects\ewbm_pmu.d)
+I (.\component\drivers\ip\inc\ewbm_pmu.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+F (.\component\drivers\ip\src\ewbm_rtc.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_rtc.o --omf_browse .\objects\ewbm_rtc.crf --depend .\objects\ewbm_rtc.d)
+I (.\component\drivers\ip\inc\ewbm_rtc.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+F (.\component\drivers\ip\src\ewbm_sdio_master.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_sdio_master.o --omf_browse .\objects\ewbm_sdio_master.crf --depend .\objects\ewbm_sdio_master.d)
+I (.\component\drivers\ip\inc\ewbm_sdio_master.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_gpio.h)(0x5B42BB86)
+F (.\component\drivers\ip\src\ewbm_sdio_slave.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_sdio_slave.o --omf_browse .\objects\ewbm_sdio_slave.crf --depend .\objects\ewbm_sdio_slave.d)
+I (.\component\drivers\ip\inc\ewbm_sdio_slave.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_gpio.h)(0x5B42BB86)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+F (.\component\drivers\ip\src\ewbm_spi.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_spi.o --omf_browse .\objects\ewbm_spi.crf --depend .\objects\ewbm_spi.d)
+I (.\component\drivers\ip\inc\ewbm_spi.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_spi_arm.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_spi_ewbm.h)(0x592C3EA6)
+F (.\component\drivers\ip\src\ewbm_spi_arm.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_spi_arm.o --omf_browse .\objects\ewbm_spi_arm.crf --depend .\objects\ewbm_spi_arm.d)
+I (.\component\drivers\ip\inc\ewbm_spi_arm.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_spi.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+F (.\component\drivers\ip\src\ewbm_spi_ewbm.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_spi_ewbm.o --omf_browse .\objects\ewbm_spi_ewbm.crf --depend .\objects\ewbm_spi_ewbm.d)
+I (.\component\drivers\ip\inc\ewbm_spi_ewbm.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_spi.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+F (.\component\drivers\ip\src\ewbm_uart.c)(0x593FD588)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_uart.o --omf_browse .\objects\ewbm_uart.crf --depend .\objects\ewbm_uart.d)
+I (.\component\drivers\ip\inc\ewbm_uart.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x55DB1D6E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DB1D68)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB1D68)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB1D66)
+F (.\component\drivers\ip\src\ewbm_wdt.c)(0x592C3EA6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_wdt.o --omf_browse .\objects\ewbm_wdt.crf --depend .\objects\ewbm_wdt.d)
+I (.\component\drivers\ip\inc\ewbm_wdt.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+F (.\cpu\src\ewbm_clock.c)(0x5947891B)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_clock.o --omf_browse .\objects\ewbm_clock.crf --depend .\objects\ewbm_clock.d)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+F (.\cpu\src\ewbm_isr.c)(0x5947891B)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_isr.o --omf_browse .\objects\ewbm_isr.crf --depend .\objects\ewbm_isr.d)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_uart.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+F (.\cpu\src\ewbm_padmux.c)(0x5B0D6CA8)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ewbm_padmux.o --omf_browse .\objects\ewbm_padmux.crf --depend .\objects\ewbm_padmux.d)
+I (.\cpu\inc\ewbm_padmux.h)(0x5947891B)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\config\padmux_config.h)(0x5B14FCA4)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+F (.\cpu\src\system_ewbm.c)(0x5947891B)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\system_ewbm.o --omf_browse .\objects\system_ewbm.crf --depend .\objects\system_ewbm.d)
+I (.\cpu\inc\ewbm_clock.h)(0x5947891B)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\cpu\inc\ewbm_padmux.h)(0x5947891B)
+I (.\cpu\inc\ewbm_isr.h)(0x5947891B)
+F (.\main.c)(0x5BC6F3B6)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB1D66)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DB1D68)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB1D68)
+I (.\component\config\inc\ewbm_global_config.h)(0x5B95FF99)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_uart.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (.\component\drivers\Ethernet\W5500\w5500.h)(0x5B39D605)
+I (.\component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+I (.\component\drivers\Ethernet\W5500/w5500.h)(0x5B39D605)
+I (.\component\drivers\Ethernet\socket.h)(0x595F9887)
+I (.\component\drivers\Ethernet\Wiz_init\wiz_init.h)(0x5954FB47)
+I (.\component\drivers\Ethernet\ping.h)(0x5B35F524)
+I (.\component\drivers\ip\inc\ewbm_spi.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_gpio.h)(0x5B42BB86)
+F (.\cpu\src\startup_armcc_ARMCM0.s)(0x5947891B)(--cpu Cortex-M0 --li --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 517" --pd "ARMCM0 SETA 1"--list .\listings\startup_armcc_armcm0.lst --xref -o .\objects\startup_armcc_armcm0.o --depend .\objects\startup_armcc_armcm0.d)
+F (.\component\drivers\Ethernet\socket.c)(0x5B45CBA0)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\socket.o --omf_browse .\objects\socket.crf --depend .\objects\socket.d)
+I (component\drivers\Ethernet\socket.h)(0x595F9887)
+I (component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (component\drivers\Ethernet\W5500/w5500.h)(0x5B39D605)
+I (.\component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+F (.\component\drivers\Ethernet\W5500\w5500.c)(0x595F9887)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\w5500.o --omf_browse .\objects\w5500.crf --depend .\objects\w5500.d)
+I (component\drivers\Ethernet\W5500\w5500.h)(0x5B39D605)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+I (.\component\drivers\Ethernet\W5500/w5500.h)(0x5B39D605)
+F (.\component\drivers\Ethernet\Wiz_init\wiz_init.c)(0x5B042816)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\wiz_init.o --omf_browse .\objects\wiz_init.crf --depend .\objects\wiz_init.d)
+I (component\drivers\Ethernet\Wiz_init\wiz_init.h)(0x5954FB47)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x55DB1D68)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55DB1D68)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55DB1D66)
+I (.\component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\component\drivers\Ethernet\W5500/w5500.h)(0x5B39D605)
+I (.\component\drivers\Ethernet\socket.h)(0x595F9887)
+I (.\component\drivers\ip\inc\ewbm_spi.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_gpio.h)(0x5B42BB86)
+I (.\component\drivers\ip\inc\ewbm_i2c.h)(0x592C3EA6)
+I (.\component\drivers\ip\inc\ewbm_uart.h)(0x592C3EA6)
+F (.\component\drivers\Ethernet\wizchip_conf.c)(0x595F9887)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\wizchip_conf.o --omf_browse .\objects\wizchip_conf.crf --depend .\objects\wizchip_conf.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x55DB1D6E)
+I (component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (component\drivers\Ethernet\W5500/w5500.h)(0x5B39D605)
+I (.\component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+F (.\component\drivers\Ethernet\ping.c)(0x5B7538ED)(--c99 -c --cpu Cortex-M0 -D__EVAL --li -g -W -O0 --apcs=interwork --split_sections -I.\cpu\inc -I.\component\drivers\ip\inc -I.\component\bsp\ms_io_board\inc -I..\W5500 -I.\component\config\inc -I.\component\drivers\Ethernet -I.\component\drivers\Ethernet\W5500 -I.\component\drivers\Ethernet\Wiz_init -I.\cpu\inc -I.\config-I D:\pointblank\pointblank\pointblank\W5500\RTE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.3.0\Device\ARM\ARMCM0\Include-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="517" -DARMCM0 -DEWBMMS500 -D__QSPIBOOT__ -D__ENABLE_UART_P__ -D__ENABLE_DMA__-o .\objects\ping.o --omf_browse .\objects\ping.crf --depend .\objects\ping.d)
+I (.\component\drivers\ip\inc\ewbm_uart.h)(0x592C3EA6)
+I (.\cpu\inc\ewbm_device.h)(0x5947891B)
+I (.\cpu\inc\core_cm0.h)(0x5947891B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55DB1D70)
+I (.\cpu\inc\core_cmInstr.h)(0x5947891B)
+I (.\cpu\inc\cmsis_armcc.h)(0x5947891B)
+I (.\cpu\inc\core_cmFunc.h)(0x5947891B)
+I (.\cpu\inc\system_ewbm.h)(0x5947891B)
+I (.\cpu\inc\ewbm_conf.h)(0x5947891B)
+I (.\cpu\inc\ewbm_reg.h)(0x5947891B)
+I (.\component\drivers\ip\inc\ewbm_dma.h)(0x592C3EA6)
+I (component\drivers\Ethernet\ping.h)(0x5B35F524)
+I (component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+I (component\drivers\Ethernet\W5500/w5500.h)(0x5B39D605)
+I (.\component\drivers\Ethernet\wizchip_conf.h)(0x595F9887)
+I (component\drivers\Ethernet\socket.h)(0x595F9887)
+I (.\component\drivers\ip\inc\ewbm_delay.h)(0x592C3EA6)
